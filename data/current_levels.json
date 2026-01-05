@@ -1,0 +1,152 @@
+[
+  {
+    "region_id": "1",
+    "region_name": "Leep Networks (Water) Ltd (formerly SSE Water Ltd)",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "2",
+    "region_name": "ESP Water Ltd",
+    "capacity_pct": "",
+    "status": "Below Average"
+  },
+  {
+    "region_id": "3",
+    "region_name": "Icosa Water Services Ltd",
+    "capacity_pct": "",
+    "status": "Below Average"
+  },
+  {
+    "region_id": "4",
+    "region_name": "Severn Trent Water",
+    "capacity_pct": "",
+    "status": "Below Average"
+  },
+  {
+    "region_id": "5",
+    "region_name": "Yorkshire Water",
+    "capacity_pct": "",
+    "status": "Above Average"
+  },
+  {
+    "region_id": "6",
+    "region_name": "Northumbrian Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "7",
+    "region_name": "South East Water",
+    "capacity_pct": "",
+    "status": "Below Average"
+  },
+  {
+    "region_id": "8",
+    "region_name": "Leep Networks (Water) Ltd",
+    "capacity_pct": "",
+    "status": "Below Average"
+  },
+  {
+    "region_id": "9",
+    "region_name": "Wessex Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "10",
+    "region_name": "Affinity Water",
+    "capacity_pct": "",
+    "status": "Above Average"
+  },
+  {
+    "region_id": "11",
+    "region_name": "United Utilities",
+    "capacity_pct": "",
+    "status": "Below Average"
+  },
+  {
+    "region_id": "12",
+    "region_name": "Leep Networks (Water) Ltd (formerly Peel Water Networks Ltd)",
+    "capacity_pct": "",
+    "status": "Below Average"
+  },
+  {
+    "region_id": "13",
+    "region_name": "South West Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "14",
+    "region_name": "Veolia Water Projects Ltd",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "15",
+    "region_name": "Albion Water Ltd",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "16",
+    "region_name": "Anglian Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "17",
+    "region_name": "DÅµr Cymru",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "18",
+    "region_name": "Portsmouth Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "19",
+    "region_name": "Hafren Dyfrdwy",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "20",
+    "region_name": "Sutton & East Surrey Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "21",
+    "region_name": "Albion Eco Ltd",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "22",
+    "region_name": "Thames Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "23",
+    "region_name": "Southern Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "24",
+    "region_name": "South Staffordshire Water",
+    "capacity_pct": "",
+    "status": "Average"
+  },
+  {
+    "region_id": "25",
+    "region_name": "Independent Water Networks Ltd",
+    "capacity_pct": "",
+    "status": "Average"
+  }
+]
