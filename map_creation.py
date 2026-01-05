@@ -3,7 +3,7 @@
 def import_map():
     import geopandas as gpd
     # Path to the shapefile (just the .shp file, geopandas will read .shx and .dbf automatically)
-    shapefile_path = r"C:\Users\Simon\Downloads\WaterSupplyAreas_incNAVsv1_5\WaterSupplyAreas_incNAVs v1_5.shp"
+    shapefile_path = input("Copy shp file path here: ")
 
     # Load the shapefile
     gdf = gpd.read_file(shapefile_path)
