@@ -1,9 +1,18 @@
 import json
 
-with open("data/water_company_boundaries.geojson", "r") as f:
-    geojson_data = json.load(f)
+with open("data/map_coords.geojson") as f:
+    geojson = json.load(f)
 
-print(geojson_data['features'][0]['properties']['COMPANY'])
+for feature in geojson["features"]:
+    geom_type = feature["geometry"]["type"]
 
+    if geom_type == "MultiPolygon":
+        for polygon in feature["geometry"]["coordinates"]:
+            for ring in polygon:
+                ring.reverse()
+    elif geom_type == "Polygon":
+        for ring in feature["geometry"]["coordinates"]:
+            ring.reverse()
 
-
+with open("data/reversed.geojson", "w") as f:
+    json.dump(geojson, f)

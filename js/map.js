@@ -38,7 +38,7 @@ const statusColors = {
 
 // Load both GeoJSON and company status JSON
 Promise.all([
-  d3.json("data/water_company_boundaries.geojson"),
+  d3.json("data/reversed.geojson"),
   d3.json("data/current_levels.json")
 ]).then(([geoData, statusData]) => {
 

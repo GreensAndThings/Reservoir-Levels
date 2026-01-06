@@ -16,4 +16,9 @@ The webpage should answer the following questions:
 
 ## Resources
 Water company boundaries: https://commonslibrary.parliament.uk/constituency-information-water-companies/#datasources
+
 Styling inspiration: https://evenbettermotherfucking.website/
+
+Manual editing of boundaries: https://mapshaper.org/ (DANGER: this reverses the clockwise/anticlockwise order of the ring co-ordinates, preventing D3 from correctly loading the map)
+
+Clockwise/anticlokwise solution for D3 co-ordinates: https://stackoverflow.com/questions/54947126/geojson-map-with-d3-only-rendering-a-single-path-in-a-feature-collection
